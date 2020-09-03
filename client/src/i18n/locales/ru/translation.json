@@ -1,0 +1,8 @@
+{
+  "appTitle": "МЕНЕДЖЕР ЗАМЕТОК",
+  "textareaPlaceholder": "Введите текст заметки...",
+  "addNoteButton": "ДОБАВИТЬ",
+  "editTitle": "РЕДАКТИРОВАТЬ ЗАМЕТКУ",
+  "cancelButton": "ОТМЕНА",
+  "saveNoteButton": "СОХРАНИТЬ"
+}

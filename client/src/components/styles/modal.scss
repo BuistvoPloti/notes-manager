@@ -1,0 +1,64 @@
+$width: 112px;
+$height: 32px;
+
+.save-button {
+  width: $width;
+  height: $height;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  position: absolute;
+  bottom: 24px;
+  right: 16px;
+  background: #0A74FF;
+  border: none;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.4);
+  color: #fff;
+  text-transform: uppercase;
+  text-shadow: 0 0 5px rgba(0,0,0,0.5);
+  cursor: pointer;
+  &:hover{
+    box-shadow:none;
+  }
+}
+
+.cancel-button {
+  width: $width;
+  height: $height;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  position: absolute;
+  bottom: 24px;
+  right: 132px;
+  background: #F10404;
+  border: none;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.4);
+  color: #fff;
+  text-transform: uppercase;
+  text-shadow: 0 0 5px rgba(0,0,0,0.5);
+  cursor: pointer;
+  &:hover{
+    box-shadow:none;
+  }
+}
+
+.modal{
+  display: table;
+  margin: 0 auto;
+  padding-top:10%;
+  width:812px;
+  max-width: 1920px;
+  position: relative;
+}
+
+.modal-title{
+  display:flex;
+  justify-content: center;
+  font-size:50px;
+  font-weight: bold;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.noselect {
+  -webkit-user-select: none; /* Safari */
+  user-select: none; /* Chrome, Edge, Opera and Firefox */
+}

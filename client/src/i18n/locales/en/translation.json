@@ -1,0 +1,8 @@
+{
+  "appTitle": "NOTES MANAGER",
+  "textareaPlaceholder": "Enter your note here...",
+  "addNoteButton": "ADD",
+  "editTitle": "EDIT NOTE",
+  "cancelButton": "CANCEL",
+  "saveNoteButton": "SAVE"
+}
