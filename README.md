@@ -1,19 +1,20 @@
 # notes-manager
 
-React/Redux + NodeJS
+React/Redux + NodeJS <br /> 
 
-How to run API service:
-1)open "server" folder
-2)"npm install" in terminal
-3)"npm start" in terminal
+How to run API service: <br /> 
+1)open "server" folder <br /> 
+2)"npm install" in terminal <br /> 
+3)"npm start" in terminal <br /> 
 
-How to run client:
-1)open "client" folder
-2)"npm install" in terminal
-3)"npm start" in terminal
+How to run client: <br /> 
+1)open "client" folder <br /> 
+2)"npm install" in terminal <br /> 
+3)"npm start" in terminal <br /> 
 
-How to run tests:
-1)open "client" folder
-2)"npx cypress open" in terminal (gonna take some time and open GUI tab)
-3)click on test.js
-4)use GUI to rerun/navigate
+How to run tests: <br /> 
+1)open "client" folder <br /> 
+2)"npx cypress open" in terminal (gonna take some time and open GUI tab) <br /> 
+3)click on test.js <br /> 
+4)use GUI to rerun/navigate <br /> 
+(make sure you run both server and client to pass tests)
