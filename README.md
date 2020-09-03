@@ -7,12 +7,10 @@ How to run API service:
 2)"npm install" in terminal
 3)"npm start" in terminal
 
-
 How to run client:
 1)open "client" folder
 2)"npm install" in terminal
 3)"npm start" in terminal
-
 
 How to run tests:
 1)open "client" folder
